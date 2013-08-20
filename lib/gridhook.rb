@@ -1,6 +1,5 @@
 require 'rails/engine'
 require 'yajl'
-require 'yajl/json_gem'
 require 'action_view'
 require 'action_dispatch'
 
